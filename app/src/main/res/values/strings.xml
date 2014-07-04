@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Хорошая программа</string>
+    <string name="action_settings">Settings</string>
+    <string name="centerImage">centerImage</string>
+    <string name="ctrBtn">Сделать хорошо!</string>
+    <string name="mainTxt">Необходимо всё сделать хорошо!</string>
+    <string name="ctrBtn2">Вернуть</string>
+
+</resources>
